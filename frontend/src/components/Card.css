@@ -1,0 +1,10 @@
+.playing-card {
+    border: 1px solid black;
+    width: 100px;
+    height: 140px;
+    display: inline-block;
+}
+
+.playing-card:hover {
+    transform: scale(1.1);
+}
