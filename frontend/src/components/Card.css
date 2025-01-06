@@ -1,0 +1,39 @@
+.playing-card {
+    border: 1px solid black;
+    position: relative;
+    width: 100px;
+    aspect-ratio: 2 / 3;
+    display: inline-block;
+    transition: transform 0.2s;
+    cursor: pointer;
+}
+
+.playing-card img{
+    width: 100px;
+    aspect-ratio: 2/3;
+}
+
+@media (max-width:1440px) {
+    .playing-card {
+        width: 70px;
+    }
+    .playing-card img{
+        width: 70px;
+    }
+}
+
+@media (max-width:1024px) {
+    .playing-card {
+        width: 65px;
+    }
+}
+
+@media (max-width:768px) {
+    .playing-card {
+        width: 50px;
+    }
+}
+
+.playing-card:hover {
+    transform: scale(1.1) translateY(-10px);
+}

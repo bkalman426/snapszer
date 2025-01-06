@@ -1,0 +1,44 @@
+.card-hand {
+  position: relative;
+  display: flex;
+  height: 200px;
+  width: 450px;
+  justify-content: center;
+  align-items: end;
+}
+
+.won-cards {
+  position: absolute;
+  right: -200px;
+  cursor: pointer;
+}
+
+.won-cards .score {
+  visibility: hidden;
+}
+
+.won-cards:hover .score {
+  visibility: visible;
+}
+
+@media (max-width: 1440px) {
+  .card-hand {
+    height: 180px;
+    width: 350px;
+  }
+
+  .won-cards {
+    right: -100px;
+  }
+}
+
+.card-hand .card-container {
+  position: absolute;
+  transform-origin: bottom center;
+  transition: transform 0.3s ease;
+}
+
+.card-container:hover {
+  z-index: 10;
+}
+
