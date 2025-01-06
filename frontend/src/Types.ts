@@ -5,5 +5,7 @@ export type PlayingCard = {
 
 export type Player = {
     name: string
-    hand: Array<PlayingCard>
+    hand: Array<PlayingCard> | null
+    cardCount: number;
+    score: number;
 };

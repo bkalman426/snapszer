@@ -1,14 +1,10 @@
 import { CardHand } from "../components/CardHand";
-import { Player } from "../types";
+import { gameState } from "../mockData";
+import { Player } from "../Types";
 import "./GamePage.css"
 
 export function GamePage(){
-    const players: Array<Player> = [
-        {name: "Player 1", hand: [{suit: "Tök", number: "Kilenc"}, {suit: "Tök", number: "Alsó"}, {suit: "Tök", number: "Felső"}, {suit: "Tök", number: "Király"}, {suit: "Tök", number: "Tíz"} ,{suit: "Tök", number: "Ász"}]},
-        {name: "Player 2", hand: [{suit: "Tök", number: "Kilenc"}, {suit: "Tök", number: "Alsó"}, {suit: "Tök", number: "Felső"}, {suit: "Tök", number: "Király"}, {suit: "Tök", number: "Tíz"} ,{suit: "Tök", number: "Ász"}]},
-        {name: "Player 3", hand: [{suit: "Tök", number: "Kilenc"}, {suit: "Tök", number: "Alsó"}, {suit: "Tök", number: "Felső"}, {suit: "Tök", number: "Király"}, {suit: "Tök", number: "Tíz"} ,{suit: "Tök", number: "Ász"}]},
-        {name: "Player 4", hand: [{suit: "Tök", number: "Kilenc"}, {suit: "Tök", number: "Alsó"}, {suit: "Tök", number: "Felső"}, {suit: "Tök", number: "Király"}, {suit: "Tök", number: "Tíz"} ,{suit: "Tök", number: "Ász"}]}
-    ]
+    const players: Array<Player> = gameState
 
     return <div className="game-page">    
         <div className="top-side-hand">

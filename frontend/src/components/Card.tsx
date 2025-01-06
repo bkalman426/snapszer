@@ -1,8 +1,14 @@
 import "./Card.css";
-import { PlayingCard } from "../types";
+import { PlayingCard } from "../Types";
+import cardBackImage from "../assets/cardback.png";
 
-export function Card({card} : Readonly<{card: PlayingCard;}>){
+export function Card({ card }: Readonly<{ card: PlayingCard | null }>) {
     return <div className="playing-card">
-        <p>{card.suit} {card.number}</p>
+        { card ?
+            (<p>{card.suit} {card.number}</p>)
+            :
+            (<img src={cardBackImage} alt="Hátoldal"/>)
+        }
+
     </div>
 }
