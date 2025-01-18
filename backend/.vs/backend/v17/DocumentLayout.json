@@ -1,12 +1,184 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84222A91-86DD-4421-AFA8-C521C8EC0DE5}|backend\\backend.csproj|c:\\users\\bukik\\desktop\\snapszer-projekt\\backend\\backend\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84222A91-86DD-4421-AFA8-C521C8EC0DE5}|backend\\backend.csproj|solutionrelative:backend\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84222A91-86DD-4421-AFA8-C521C8EC0DE5}|backend\\backend.csproj|c:\\users\\bukik\\desktop\\snapszer-projekt\\backend\\backend\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84222A91-86DD-4421-AFA8-C521C8EC0DE5}|backend\\backend.csproj|solutionrelative:backend\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84222A91-86DD-4421-AFA8-C521C8EC0DE5}|backend\\backend.csproj|c:\\users\\bukik\\desktop\\snapszer-projekt\\backend\\backend\\services\\roundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84222A91-86DD-4421-AFA8-C521C8EC0DE5}|backend\\backend.csproj|solutionrelative:backend\\services\\roundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84222A91-86DD-4421-AFA8-C521C8EC0DE5}|backend\\backend.csproj|c:\\users\\bukik\\desktop\\snapszer-projekt\\backend\\backend\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84222A91-86DD-4421-AFA8-C521C8EC0DE5}|backend\\backend.csproj|solutionrelative:backend\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84222A91-86DD-4421-AFA8-C521C8EC0DE5}|backend\\backend.csproj|c:\\users\\bukik\\desktop\\snapszer-projekt\\backend\\backend\\models\\roundstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84222A91-86DD-4421-AFA8-C521C8EC0DE5}|backend\\backend.csproj|solutionrelative:backend\\models\\roundstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84222A91-86DD-4421-AFA8-C521C8EC0DE5}|backend\\backend.csproj|c:\\users\\bukik\\desktop\\snapszer-projekt\\backend\\backend\\models\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84222A91-86DD-4421-AFA8-C521C8EC0DE5}|backend\\backend.csproj|solutionrelative:backend\\models\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84222A91-86DD-4421-AFA8-C521C8EC0DE5}|backend\\backend.csproj|c:\\users\\bukik\\desktop\\snapszer-projekt\\backend\\backend\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84222A91-86DD-4421-AFA8-C521C8EC0DE5}|backend\\backend.csproj|solutionrelative:backend\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84222A91-86DD-4421-AFA8-C521C8EC0DE5}|backend\\backend.csproj|c:\\users\\bukik\\desktop\\snapszer-projekt\\backend\\backend\\models\\playedcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84222A91-86DD-4421-AFA8-C521C8EC0DE5}|backend\\backend.csproj|solutionrelative:backend\\models\\playedcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84222A91-86DD-4421-AFA8-C521C8EC0DE5}|backend\\backend.csproj|c:\\users\\bukik\\desktop\\snapszer-projekt\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84222A91-86DD-4421-AFA8-C521C8EC0DE5}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84222A91-86DD-4421-AFA8-C521C8EC0DE5}|backend\\backend.csproj|c:\\users\\bukik\\desktop\\snapszer-projekt\\backend\\backend\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84222A91-86DD-4421-AFA8-C521C8EC0DE5}|backend\\backend.csproj|solutionrelative:backend\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoundService.cs",
+              "DocumentMoniker": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\backend\\Services\\RoundService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\RoundService.cs",
+              "ToolTip": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\backend\\Services\\RoundService.cs",
+              "RelativeToolTip": "backend\\Services\\RoundService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwEoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:30:29.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\backend\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\backend\\Services\\GameService.cs",
+              "RelativeToolTip": "backend\\Services\\GameService.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwFIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:29:25.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\backend\\Models\\GameState.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\GameState.cs",
+              "ToolTip": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\backend\\Models\\GameState.cs",
+              "RelativeToolTip": "backend\\Models\\GameState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:44:54.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoundState.cs",
+              "DocumentMoniker": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\backend\\Models\\RoundState.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\RoundState.cs",
+              "ToolTip": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\backend\\Models\\RoundState.cs",
+              "RelativeToolTip": "backend\\Models\\RoundState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:32:45.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\backend\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\backend\\Controllers\\GameController.cs",
+              "RelativeToolTip": "backend\\Controllers\\GameController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:24:26.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:47:18.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\backend\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\backend\\Models\\Card.cs",
+              "RelativeToolTip": "backend\\Models\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:32:13.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayedCard.cs",
+              "DocumentMoniker": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\backend\\Models\\PlayedCard.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\PlayedCard.cs",
+              "ToolTip": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\backend\\Models\\PlayedCard.cs",
+              "RelativeToolTip": "backend\\Models\\PlayedCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:50:15.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\backend\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\backend\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "backend\\Controllers\\PlayerController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:51:38.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\backend\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\bukik\\Desktop\\snapszer-projekt\\backend\\backend\\Models\\Player.cs",
+              "RelativeToolTip": "backend\\Models\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:39:03.58Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
